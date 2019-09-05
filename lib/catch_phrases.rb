@@ -1,4 +1,4 @@
     def mario
-      Phrase = "it's-a me, mario"
-      puts phrase
+      Phrase = "it's-a me, Mario!"
+      puts Phrase
     end
